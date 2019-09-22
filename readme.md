@@ -9,4 +9,4 @@
 
 ## HTTP based JSON Storage
 
-API Based JSON Storage
+API Based JSON Storage with Authentication
